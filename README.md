@@ -1,4 +1,4 @@
-# Superstore Data Analytics Dashboard - Power BI
+# Superstore Data Analytics Dashboard - Tableau
 
 A structured attempt to turn retail data into something more than numbers on a screen. Every section of this dashboard responds to interaction, reshaping itself continuously through filters, parameters, and selections, making the analysis feel less static and more conversational.
 
